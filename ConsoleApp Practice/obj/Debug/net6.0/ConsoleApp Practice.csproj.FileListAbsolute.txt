@@ -1,0 +1,22 @@
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ConsoleApp Practice.exe
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ConsoleApp Practice.deps.json
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ConsoleApp Practice.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ConsoleApp Practice.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ConsoleApp Practice.pdb
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.csproj.CopyComplete
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\refint\ConsoleApp Practice.dll
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.pdb
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ConsoleApp Practice.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\ConsoleApp Practice\ConsoleApp Practice\obj\Debug\net6.0\ref\ConsoleApp Practice.dll
